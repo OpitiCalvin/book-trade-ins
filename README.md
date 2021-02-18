@@ -7,9 +7,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# Novel Trade-In
+# Novels Trade-In
 
-An API, written in go for share, sale and trade-in of novels and story books, targetting readers out there.
+An API, written in **GO** for share, sale and trade-in of novels and story books, targeting readers out there.
 
 # Contributing
 It would be an honour to be part of this project as a contributor, and you together with your contributions will be **greatly appreciated**.
@@ -22,6 +22,11 @@ It would be an honour to be part of this project as a contributor, and you toget
 
 # License
 Distributed under the MIT License. See [License](./LICENSE)
+
+# Contact
+Calvin Opiti 
+* Email: opiticalvin@gmail.com
+* Twitter: @opiti_calvin
 
 <!-- MARKDOWN LINKS AND IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
